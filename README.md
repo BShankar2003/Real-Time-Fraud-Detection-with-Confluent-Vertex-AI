@@ -216,12 +216,4 @@ This follows industry best practices and is expected in hackathon submissions.
 
 ---
 
-## ✅ NEXT STEPS (IMPORTANT)
 
-After pasting this:
-
-```bash
-git add README.md
-git commit -m "Add final README for Devpost submission"
-git push
-```
